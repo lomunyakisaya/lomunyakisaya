@@ -1,110 +1,146 @@
 # Hi, I'm Lomunyak Isaya 👋
 
-### Telecommunication & Information Engineering Student | Electronics | Embedded Systems | Software
+### Telecommunication & Information Engineering | Electronics | Embedded Systems | Software
 
-I'm a Telecommunication and Information Engineering student interested in the intersection of **electronics, communication systems, software, and networking**.
+I'm a Telecommunication and Information Engineering student who enjoys building things with **electronics, software, and networks**.
 
-I enjoy building practical projects that combine hardware and software, while learning how the systems work underneath the abstractions.
+I like understanding how things work, from a sensor producing a signal, to a microcontroller processing it, to a network carrying the information to a software application.
 
-## 🔧 What I Work With
-
-**Programming**
-
-* C
-* C++
-* Python
-* JavaScript
-* Rust
-
-**Embedded Systems**
-
-* Arduino
-* ESP8266
-* ESP32
-* ESP32-CAM
-* Sensors and actuators
-* UART, I²C, SPI and PWM
-
-**Software & Backend**
-
-* Python
-* Django
-* JavaScript
-* SQL
-* REST APIs
-
-**Systems & Networking**
-
-* Linux
-* Git & GitHub
-* TCP/IP
-* Wi-Fi
-* MikroTik
-* OpenWrt
-
-## 🚀 Projects
-
-### LDOS — Lomunyak Drone Operating System
-
-A modular project exploring software and hardware systems for autonomous drones.
-
-Current areas include:
-
-* Sensor data acquisition
-* UART communication
-* Telemetry
-* Flight-control concepts
-* Web-based monitoring
-* Camera systems
-* Autonomous-system development
-
-### LomunyakBroadBand
-
-A networking project focused on learning and developing practical broadband and Wi-Fi infrastructure.
-
-The project involves networking, Linux, MikroTik/OpenWrt, web systems and payment-related backend development.
-
-### Eserian Safaris
-
-A Django-based web application for managing safari packages, bookings and payments.
-
-### Embedded & Electronics Projects
-
-I also build smaller projects with Arduino and ESP boards involving sensors, displays, communication protocols, motors and data collection.
-
-## 📚 Currently Learning
-
-* Algorithms and Data Structures
-* Statistics and Data Processing
-* Embedded Systems
-* Computer Architecture
-* Operating Systems
-* Telecommunications
-* Network Engineering
-
-## 🧠 How I Learn
-
-I prefer understanding what happens underneath a system rather than relying entirely on ready-made libraries.
-
-For example, with sensors, I'm interested not only in obtaining a measurement, but also in **sampling, noise, statistics, filtering and processing the data**.
-
-## 🎯 Interests
-
-* Telecommunications
-* Electronics
-* Embedded Systems
-* IoT
-* Computer Networks
-* Linux
-* Algorithms
-* Autonomous Systems
-* Software Engineering
-
-## 📫 Connect
-
-* GitHub: [@lomunyakisaya](https://github.com/lomunyakisaya)
-* TikTok: [@lomunyak_0le_isaya](https://www.tiktok.com/@lomunyak_0le_isaya)
+Most of what I build is driven by curiosity and learning. Some projects work perfectly. Some don't. Both are useful.
 
 ---
 
-> Building, testing, learning, and improving one system at a time.
+## 🔧 What I'm Interested In
+
+📡 **Telecommunications & Networking**
+🔌 **Electronics & Embedded Systems**
+💻 **Software Development**
+🤖 **IoT & Automation**
+📊 **Algorithms & Data Processing**
+🐧 **Linux & Computer Systems**
+🚁 **Autonomous Systems**
+
+---
+
+## 💻 Technologies I Use
+
+**Languages**
+
+`C` `C++` `Python` `JavaScript` `Rust`
+
+**Hardware**
+
+`Arduino` `ESP8266` `ESP32` `ESP32-CAM`
+
+**Web & Backend**
+
+`Django` `HTML` `CSS` `JavaScript` `MariaDB` `SQL`
+
+**Systems & Networking**
+
+`Linux` `Git` `GitHub` `MikroTik` `OpenWrt` `TCP/IP` `Wi-Fi`
+
+**Embedded Communication**
+
+`UART` `I²C` `SPI` `PWM`
+
+---
+
+## 🚁 LDOS
+
+### Lomunyak Drone Operating System
+
+LDOS is one of my main long-term projects.
+
+I'm exploring how hardware and software can work together to build a modular system for drones, including:
+
+* Sensor data collection
+* Communication between controllers
+* Telemetry
+* Flight-control concepts
+* Web monitoring
+* Camera systems
+* Autonomous functions
+
+It's also a way for me to learn more about embedded systems, operating systems, networking and real-time data.
+
+---
+
+## 📡 LomunyakBroadBand
+
+A project where I'm learning and experimenting with **network infrastructure and internet services**.
+
+It involves things like:
+
+* Wi-Fi networking
+* MikroTik
+* OpenWrt
+* Linux
+* Django
+* Network management
+* Payment and user management systems
+
+---
+
+## 🌐 Other Things I've Built
+
+I've also worked on projects involving:
+
+* 🦁 Safari and booking systems
+* 🏨 Hotel web applications
+* 🛒 Online shopping systems
+* 🔌 Arduino and ESP projects
+* 📟 Sensor and display systems
+* 🌐 IoT web dashboards
+
+---
+
+## 📊 Currently Learning
+
+I'm currently spending more time on **algorithms, statistics and data processing**.
+
+For example, instead of simply using a library to get a sensor's distance, I want to understand what happens to the data:
+
+`Measurement → Sampling → Statistics → Noise → Filtering → Useful Data`
+
+I'm also learning more about:
+
+* Data structures and algorithms
+* Computer architecture
+* Operating systems
+* Embedded systems
+* Telecommunications
+* Network engineering
+* Rust and systems programming
+
+---
+
+## 🧠 How I Like to Build
+
+I prefer learning by actually building things.
+
+**Build → Test → Break → Understand → Fix → Improve**
+
+That's probably why my projects tend to move between hardware and software quite a lot.
+
+---
+
+## 📌 A Few Things About Me
+
+* 🎓 Studying Telecommunication & Information Engineering
+* 🔌 Interested in electronics and embedded systems
+* 🐧 Comfortable experimenting with Linux
+* 💻 Enjoy writing software alongside hardware
+* 📡 Interested in communication and networking
+* 🚀 Currently working toward better understanding of algorithms and data
+
+---
+
+## 📫 Find Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-lomunyakisaya-181717?style=flat-square\&logo=github)](https://github.com/lomunyakisaya)
+[![TikTok](https://img.shields.io/badge/TikTok-@lomunyak__0le__isaya-000000?style=flat-square\&logo=tiktok)](https://www.tiktok.com/@lomunyak_0le_isaya)
+
+---
+
+### Building, learning, and figuring things out one project at a time. ⚡
