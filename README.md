@@ -158,11 +158,11 @@ I use this approach across both hardware and software projects.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lomunyakisaya\&show_icons=true\&theme=default\&hide_title=false\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lomunyakisaya&show_icons=true&theme=default&hide_title=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lomunyakisaya\&layout=compact\&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lomunyakisaya&layout=compact&theme=default)
 
-![GitHub Streak](https://streak-stats.vercel.app/?user=lomunyakisaya\&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lomunyakisaya&theme=default)
 
 </div>
 
