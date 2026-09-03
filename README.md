@@ -2,20 +2,17 @@
 
 ### Telecommunication & Information Engineering | Electronics | Embedded Systems | PCB Design | Networking | Software
 
-I'm a Telecommunication and Information Engineering student who enjoys building things with **electronics, software, networks, and hardware design**.
+I'm a Telecommunication and Information Engineering student interested in **electronics, embedded systems, networking, PCB design, and software**.
 
-I like understanding how things work, from a sensor producing a signal, to a microcontroller processing it, to a PCB connecting the hardware, and finally to a network carrying the information to a software application.
-
-Most of what I build is driven by curiosity and learning. Some projects work perfectly. Some don't. Both are useful.
+I work on projects that combine hardware and software, from sensors and microcontrollers to PCBs, communication interfaces, and web applications.
 
 ---
 
-## 🔧 What I'm Interested In
+## 🔧 Interests
 
 **Telecommunications & Networking**
 **Electronics & Embedded Systems**
-**PCB Design & Hardware Engineering**
-**Schematic Design & Circuit Design**
+**PCB & Circuit Design**
 **Software Development**
 **IoT & Automation**
 **Algorithms & Data Processing**
@@ -24,19 +21,23 @@ Most of what I build is driven by curiosity and learning. Some projects work per
 
 ---
 
-## 💻 Technologies I Use
+## 💻 Technologies & Skills
 
-### Programming
+### Programming Languages
 
 `C` `C++` `Python` `JavaScript` `Rust`
 
-### Hardware & Embedded
+### Statistics, Algorithms & Data
 
-`Arduino` `ESP8266` `ESP32` `ESP32-CAM` `Microcontrollers`
+`Statistics` `Probability` `Algorithms` `Data Structures` `Data Processing` `Data Analysis`
+
+### Hardware & Embedded Systems
+
+`Arduino` `ESP8266` `ESP32` `ESP32-CAM` `Microcontrollers` `Sensors`
 
 ### PCB & Electronics
 
-`KiCad` `PCB Design` `Schematic Design` `PCB Layout` `Electronic Circuits` `Sensors`
+`KiCad` `PCB Design` `Schematic Design` `PCB Layout` `Circuit Design`
 
 ### Embedded Communication
 
@@ -56,28 +57,26 @@ Most of what I build is driven by curiosity and learning. Some projects work per
 
 ### Lomunyak Drone Operating System
 
-LDOS is one of my main long-term projects.
+LDOS is a modular drone project combining embedded hardware, communication, telemetry, and software.
 
-I'm exploring how hardware and software can work together to build a modular system for drones, including:
+Current areas include:
 
 * Sensor data collection
-* Communication between controllers
+* Controller communication
+* UART communication
 * Telemetry
 * Flight-control concepts
 * PCB and hardware design
 * Web monitoring
 * Camera systems
 * Autonomous functions
-
-It's also a way for me to learn more about embedded systems, operating systems, networking, PCB design and real-time data.
+* Real-time data processing
 
 ---
 
 ## 📡 LomunyakBroadBand
 
-A project where I'm learning and experimenting with **network infrastructure and internet services**.
-
-It involves things like:
+A networking project involving:
 
 * Wi-Fi networking
 * MikroTik
@@ -85,13 +84,22 @@ It involves things like:
 * Linux
 * Django
 * Network management
-* Payment and user management systems
+* Payment systems
+* User management
 
 ---
 
-## 🌐 Other Things I've Built
+## 🎮 Contribution Hunt
 
-I've also worked on projects involving:
+A small browser game built with **HTML, CSS, and JavaScript**.
+
+The game uses a balloon to collect GitHub-style contribution boxes.
+
+[![Play Contribution Hunt](https://img.shields.io/badge/Play-Contribution%20Hunt-2ea44f?style=for-the-badge)](https://lomunyakisaya.github.io/Home/)
+
+---
+
+## 🌐 Other Projects
 
 * Safari and booking systems
 * Hotel web applications
@@ -99,57 +107,64 @@ I've also worked on projects involving:
 * Arduino and ESP projects
 * Sensor and display systems
 * IoT web dashboards
-* Electronic circuits and prototypes
-* PCB designs and hardware projects
+* Electronic circuits
+* PCB designs
+* Network and payment systems
 
 ---
 
 ## 📚 Currently Learning
 
-I'm currently spending more time on **algorithms, statistics, data processing, embedded systems, and hardware design**.
-
-For example, instead of simply using a library to get a sensor's distance, I want to understand what happens to the data:
-
-`Measurement → Sampling → Statistics → Noise → Filtering → Useful Data`
-
-I'm also learning more about:
-
 * Data structures and algorithms
+* Statistics and data processing
 * Computer architecture
 * Operating systems
 * Embedded systems
-* PCB design
-* Circuit design
+* PCB and circuit design
 * Telecommunications
 * Network engineering
 * Robotics
 * Rust and systems programming
 
+A particular area of interest is understanding how sensor measurements become useful data:
+
+```text
+Measurement
+     ↓
+Sampling
+     ↓
+Data
+     ↓
+Statistics
+     ↓
+Noise
+     ↓
+Filtering
+     ↓
+Useful Information
+```
+
 ---
 
-## 🧠 How I Like to Build
+## 🧠 Development Approach
 
-I prefer learning by actually building things.
+**Design → Build → Test → Understand → Fix → Improve**
 
-**Design → Build → Test → Break → Understand → Fix → Improve**
-
-This applies to both software and hardware.
-
-I enjoy taking an idea from a **schematic**, turning it into a **PCB**, assembling the hardware, writing the firmware, and connecting it to the larger system.
+I use this approach across both hardware and software projects.
 
 ---
 
-## 📌 A Few Things About Me
+## 📊 GitHub Stats
 
-* Studying Telecommunication & Information Engineering
-* Interested in electronics and embedded systems
-* Enjoy designing PCBs with KiCad
-* Interested in circuit and schematic design
-* Comfortable experimenting with Linux
-* Enjoy writing software alongside hardware
-* Interested in communication and networking
-* Currently improving my algorithms and data-processing skills
-* Building toward stronger hardware and systems engineering skills
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lomunyakisaya\&show_icons=true\&theme=default\&hide_title=false\&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lomunyakisaya\&layout=compact\&theme=default)
+
+![GitHub Streak](https://streak-stats.vercel.app/?user=lomunyakisaya\&theme=default)
+
+</div>
 
 ---
 
@@ -161,4 +176,4 @@ I enjoy taking an idea from a **schematic**, turning it into a **PCB**, assembli
 
 ---
 
-### Building, learning, and figuring things out one project at a time.
+### Building and learning one project at a time.
