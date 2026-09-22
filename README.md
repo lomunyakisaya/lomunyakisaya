@@ -25,7 +25,7 @@ I work on projects that combine hardware and software, from sensors and microcon
 
 ### Programming Languages
 
-`C` `C++` `Python` `JavaScript` `Rust`
+`C` `C++` `Python` `JavaScript` `Rust` `Java`
 
 ### Statistics, Algorithms & Data
 
@@ -41,7 +41,7 @@ I work on projects that combine hardware and software, from sensors and microcon
 
 ### Embedded Communication
 
-`UART` `I²C` `SPI` `PWM`
+`UART` `I²C` `SPI`
 
 ### Web & Backend
 
