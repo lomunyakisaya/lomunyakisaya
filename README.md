@@ -25,7 +25,7 @@ I work on projects that combine hardware and software, from sensors and microcon
 
 ### Programming Languages
 
-`C` `C++` `Python` `JavaScript` `Rust` `Java`
+`C` `C++` `Python` `JavaScript` `Rust` `Java` `R` 
 
 ### Statistics, Algorithms & Data
 
