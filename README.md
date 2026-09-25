@@ -53,7 +53,7 @@ I work on projects that combine hardware and software, from sensors and microcon
 
 ---
 
-## 🚁 LDOS
+##  LDOS
 
 ### Lomunyak Drone Operating System
 
