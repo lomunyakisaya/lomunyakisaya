@@ -2,7 +2,7 @@
 
 ### Telecommunication & Information Engineering | Embedded Systems | Software
 
-I'm a Telecommunication and Information Engineering student building at the intersection of **embedded systems, electronics, networking, and software**. I doing practical hardware and software projects.
+I'm a Telecommunication and Information Engineering student building at the intersection of **embedded systems, electronics, networking, and software**. I enjoy doing practical hardware and software projects.
 
 ## 💻 Tech Stack
 
