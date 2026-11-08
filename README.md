@@ -63,5 +63,5 @@ I'm a TIE student passionate about engineering practical solutions through softw
 ---
 
 <p align="center">
-  <i>Engineering ideas into reality, one project at a time.</i>
+  <i>Engineering says, the more the projects, the more you learn, right?.</i>
 </p>
