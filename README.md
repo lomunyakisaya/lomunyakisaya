@@ -1,7 +1,11 @@
-
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hello%2C+I+am+Lomunyak+Isaya;Telecommunication+%26+Information+Engineer;Android+%7C+Backend+%7C+Embedded+Systems;Building+Hardware+and+Software" alt="Animated introduction" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hello%2C+I+am+Lomunyak+Isaya;Telecommunication+%26+Information+Engineer;Android+%7C+Backend+%7C+Embedded+Systems;Building+Hardware+and+Software" alt="Animated introduction" />
+  <a href="https://wa.me/254716967496?text=Hello%2C%20I%20found%20your%20profile%20on%20GitHub%20and%20I%27m%20interested%20in%20discussing%20a%20potential%20collaboration%20or%20project%20with%20you.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=25D366&center=true&vCenter=true&width=850&lines=OPEN+FOR+COLLABORATION;HAVE+A+PROJECT+IN+MIND%3F;LET'S+BUILD+SOMETHING+TOGETHER;CONTACT+ME+ON+WHATSAPP" alt="Open for collaboration - Contact me on WhatsApp" />
+  </a>
 </p>
 
 ### Telecommunication & Information Engineering | Android | Backend | Embedded Systems
@@ -63,5 +67,5 @@ I'm a TIE student passionate about engineering practical solutions through softw
 ---
 
 <p align="center">
-  <i>Engineering says, the more the projects, the more you learn, right?.</i>
+  <i>Engineering says, the more the projects, the more you learn, right?</i>
 </p>
