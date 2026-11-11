@@ -20,9 +20,7 @@ I'm a TIE student passionate about engineering practical solutions through softw
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
 
 **Android Development**
 
