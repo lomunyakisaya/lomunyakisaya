@@ -56,6 +56,31 @@ I'm a TIE student passionate about engineering practical solutions through softw
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt)
 ![QML](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt)
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <a href="https://github.com/lomunyakisaya">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lomunyakisaya&theme=github_dark" alt="GitHub profile statistics" />
+  </a>
+  <a href="https://github.com/lomunyakisaya?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lomunyakisaya&theme=github_dark" alt="Repository language breakdown" />
+  </a>
+</p>
+
+<h3 align="center">Contribution activity</h3>
+
+<p align="center">
+  <a href="https://github.com/lomunyakisaya">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lomunyakisaya&bg_color=0D1117&color=8B949E&line=58A6FF&point=3FB950&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  </a>
+</p>
+
+<h3 align="center">Contribution streak</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lomunyakisaya&theme=transparent&hide_border=true&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="100%" alt="GitHub contribution streak" />
+</p>
+
 ## 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-lomunyakisaya-181717?style=flat-square&logo=github)](https://github.com/lomunyakisaya)
